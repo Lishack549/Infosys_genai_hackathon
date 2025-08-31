@@ -1,0 +1,2 @@
+filename,department,summary,entities,workflow_outcome,workflow_checklist
+invoicde_test.txt,Finance,"Here is a summary of the document:\n\n* Invoice number: INV-2025-001\n* Date: August 22nd, 2025\n* Customer: ABC Pvt Ltd\n* Amount: ₹75,000 (Indian Rupees)\n* Purpose: Monthly subscription charges\n* Payment instruction: Process payment within 7 working days","{'amounts': ['202', '5', '001', ' 22', '08', '202', '5', '₹75,000', ' 7'], 'dates': ['22/08/2025'], 'invoice_numbers': ['INV-2025-001']}",Process Normally,['Schedule Payment']

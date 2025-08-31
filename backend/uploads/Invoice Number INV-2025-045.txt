@@ -1,0 +1,6 @@
+Invoice Number: INV-2025-045
+Date: 20/09/2025
+Customer: Infosys Cloud Division
+Amount: ₹1,25,000
+
+This invoice includes annual cloud hosting charges and data center maintenance.

@@ -1,0 +1,7 @@
+Invoice Number: INV-2025-012
+Date: 12/09/2025
+Customer: Infosys HR Division
+Amount: ₹25,000
+
+This invoice covers employee training program costs.
+Since the amount is within the permissible limit.
